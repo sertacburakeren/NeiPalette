@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+seaborn
+
+# Image / CV
+Pillow
+scikit-image
+
+# Deep learning (choose one stack or adjust to your setup)
+torch
+torchvision
+
+# Optional utilities
+tqdm

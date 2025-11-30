@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# OS
+.DS_Store
+
+# Data
+data/
+!data/README.md
+
+# Results (optional, keep figures if desired)
+results/**/*.pt
+results/**/*.pth
